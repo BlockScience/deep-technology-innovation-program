@@ -76,3 +76,7 @@ Changes in human-computer interactions are a natural consequence of innovation. 
 ~Source: [Wikipedia](https://en.wikipedia.org/wiki/Mechanism_design)
 
 Furthermore, there is a preference for topics addressing games with both spatial and temporal elements, as well as accounting for diverse preference models which extend beyond short-term profit maximization.
+
+## Funding Source
+
+Funding for this research and development program comes from optional donations provided by the validators of the Open Libra network as well as direct donations to this address `BB6926434D1497A559E4F0487F79434F`.
