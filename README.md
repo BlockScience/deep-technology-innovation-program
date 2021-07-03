@@ -10,4 +10,6 @@ This Deep Technology Innovation Program will provide opportunities for best in c
 
 The program will solicit research proposals, evaluate proposals based on their scientific merits, team qualifications and the potential impact of the research. Solicitation and evaluations will be performed by knowledgeable researchers including both BlockScience staff and third-party experts.
 
-Donations to the Deep Technology Innovation Program are accepted at the address: `BB6926434D1497A559E4F0487F79434F`. Donations will be used to award grants for potential high impact projects. To cover costs of managing this program, BlockScience will receive an administrative fee up to 4% of the funds awarded to teams.
+Donations to the Deep Technology Innovation Program are accepted at the address: `BB6926434D1497A559E4F0487F79434F`. Donations will be used to award grants for potential high impact projects. This address is a special class of “CommunityWallet” on chain. Funds can only be disbursed after polling the community. Specifically, funds will be transferred to another address only if 2/3 of validators in an epoch approve (by voting power). To cover costs of managing this program, BlockScience may receive an administrative fee up to 4% of the funds awarded to teams; this dispersement is also subject to community approval. Being a CommunityWallet also means it is possible for the validators to sunset this account for any reason.
+
+
