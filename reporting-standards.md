@@ -178,7 +178,7 @@ As it happens this standard is being proposed and dogfooded by the analytics wor
 "type":<1>,
 "details":
     {
-    "memo": "Karma Hustle bount for completing the first batch of missions in the analytics project, specifically making permission tree data accessible.",
+    "memo": "Karma Hustle bounty for completing the first batch of missions in the analytics project, specifically making permission tree data accessible.",
     "missions":
         [
             {
@@ -200,7 +200,7 @@ As it happens this standard is being proposed and dogfooded by the analytics wor
 }
 ```
 
-### Protoype
+## Protoype
 
 The prototype implementation of `contributors.json` and `payments.json` can be found at \<link to github\>, which at the time of this document contains the original three contributors to the analytics project and the first payment by the Deep Technology Research Program Community wallet with on chain address \<address\>. The associated transaction hash and its details can be found on the block explorer \<link to tx on block explorer\>.
     
