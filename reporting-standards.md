@@ -143,7 +143,7 @@ Based on the current activies in the 0L ecosystem, we're expecting community wal
 ```
 {
 "transaction":<transactionHash>,
-"type":<1>,
+"type":1,
 "details":
     {
     "memo": <str>,
