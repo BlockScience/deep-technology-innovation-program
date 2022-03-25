@@ -208,3 +208,13 @@ We propose the following next steps:
 * Other Community wallets should fork our `contributors.json` and `payments.json` files to seed there own versions of these files.
 * after a few weeks of testing out the data structures proposed herein community wallet operators convene to discuss and refine this reporting standard with input from community
 * assuming this standard or variation thereof is deemed suitable, proceed with the development of MVP software to streamline data entry and provide basic reporting functionality
+
+
+### Why Reporting is Important?
+1. Transparency for Community Wallet Operators
+2. Payment Disputes (Laborer claims did not get)
+3. Transparency to Community that payments are tied verifiable labor
+4. Re-tracing past history without reporting will be impossible if not 
+5. Arbitration and Verification of Task Completion Process (still need to be defined), but this payment process need to be support those processes.
+
+
